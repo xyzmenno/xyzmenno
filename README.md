@@ -1,4 +1,4 @@
-<h1 align="center"> Hi! Welcome to my Github! </h1>
+<h1 align="center"> Hi! 👋 Welcome to my Github! </h1>
 <!--
 **xyzmenno/xyzmenno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
